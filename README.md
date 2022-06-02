@@ -1,4 +1,4 @@
-# machine_learning_UC
+# Dataset for ML assignments
 
 Nothing special. Just CSVs used for my machine learning tasks. ✌ 
 
